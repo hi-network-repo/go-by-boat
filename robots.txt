@@ -1,0 +1,1 @@
+Sitemap: http://hi-network-repo.github.io/go-by-boat/sitemap.xml
