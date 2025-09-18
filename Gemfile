@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem 'jekyll-algolia',       '~> 1.0'
   gem 'jekyll-github-metadata'
   gem 'jekyll-sitemap'
+  gem 'jekyll-redirect-from'
   gem 'jekyll-include-cache'
   gem 'jekyll-remote-theme'
 end
@@ -17,3 +18,4 @@ gem 'kramdown-parser-gfm'
 gem 'ostruct'
 gem 'fiddle'
 gem 'faraday-retry'
+gem 'jekyll-robotstxt'
