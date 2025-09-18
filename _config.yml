@@ -78,8 +78,8 @@ footer:
 
 # C. Theme Settings
 chulapa-skin:
-  highlight   : "github"
-  skin        : gitdev
+  highlight   : "vs"
+  skin        : navi
   autothemer  :  true
 
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
